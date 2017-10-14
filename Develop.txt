@@ -6,7 +6,10 @@ package pers.yu;
 
 public class Main
 {
+  private static final int MAX = 100;
+
   public static void test()
   { 
   }
+
 }
