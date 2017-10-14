@@ -6,4 +6,7 @@ package pers.yu;
 
 public class Main
 {
+  public static void test()
+  { 
+  }
 }
