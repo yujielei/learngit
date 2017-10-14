@@ -1,0 +1,6 @@
+package pers.yu;
+
+
+public class Main
+{
+}
